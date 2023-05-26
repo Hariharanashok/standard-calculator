@@ -100,5 +100,5 @@ Publish the website in the given URL.
 ![calci output](https://github.com/Hariharanashok/standard-calculator/assets/120353431/7c7e6ece-3b0a-4fa8-acb0-447a1c08e11c)
 
 ## Result:
-Simple Calculator is ready to use.
+The Simple Calculator web application is now ready to use.
 
